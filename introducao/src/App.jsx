@@ -21,8 +21,6 @@ function App() {
       <h1>Olá mundo!</h1>
       <p>Estou aprendendo React XD</p>
 
-      <br/>
-
       <p>Meu nome é: {nome} </p>
       <button onClick={carregarNome} >Carregar nome</button>
       
